@@ -10,3 +10,4 @@ Hi, i'm yanjanendra, a computer application graduate.
 - docker and kubernetes
 - linux
 - python : ( django, flask, fastapi)
+- amazon aws
