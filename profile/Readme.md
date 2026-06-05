@@ -10,3 +10,6 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 
+## 📈 Contributions
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yanjankaf&theme=github-dark&hide_border=true)](https://github.com/yanjankaf)
